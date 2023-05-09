@@ -1,6 +1,6 @@
 import unittest
 from math_samples import MathSamples
-
+#python -m unittest ./fibonacci_test.py
 class FibonacciTest(unittest.TestCase):
 
     def test_fib01(self):
